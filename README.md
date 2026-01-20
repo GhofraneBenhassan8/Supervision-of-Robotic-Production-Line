@@ -2,6 +2,7 @@
 
 Multi-station industrial control and monitoring application using National Instruments Network Variables.
 This application provides a comprehensive control and monitoring interface for industrial automation systems:
+<img width="1093" height="416" alt="image" src="https://github.com/user-attachments/assets/e2460527-3411-484f-aa6f-87ce15f6914a" />
 
 ### Station Monitoring
 - **Monitors 4 industrial stations simultaneously** with real-time status updates
